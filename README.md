@@ -60,7 +60,7 @@
 
 * __Source Code :__ is in [McDonald's Problem\bin\main.dart], or [Click Here](https://github.com/AbraamSameh/McDonalds-Problem/blob/master/McDonald's%20Problem/bin/main.dart)
 
-* __Used Design Pattern :__
+* __Used Design Patterns :__
     * __Builder Pattern__
     * __Factory Pattern__
     * __Strategy Pattern__
